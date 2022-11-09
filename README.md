@@ -1,4 +1,4 @@
-# Learning to Incentivize Others
+# Learning Roles with Emergent Social Value Orientations
 
 This is the code for experiments in the under-reviewed paper "Learning Roles with Emergent Social Value Orientations", which is based on the [LIO](https://github.com/011235813/lio).
 
